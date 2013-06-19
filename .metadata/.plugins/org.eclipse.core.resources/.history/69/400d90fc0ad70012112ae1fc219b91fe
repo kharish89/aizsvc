@@ -1,0 +1,5 @@
+package com.aiz.restful.resources;
+
+public class ContactFormResource {
+
+}

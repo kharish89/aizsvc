@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><libraryInfos>
+<libraryInfo home="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64" version="1.6.0">
+<bootpath>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\bin\default\jclSC160\vm.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\annotation.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\beans.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\java.util.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\jndi.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\logging.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\security.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\sql.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmorb.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmorbapi.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmcfw.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\rt.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\charsets.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\resources.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmpkcs.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmcertpathfw.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmjgssfw.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmjssefw.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmsaslfw.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmjcefw.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmjgssprovider.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmxmlcrypto.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\management-agent.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\xml.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\jlm.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\javascript.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre" version="1.6.0">
+<bootpath>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\bin\default\jclSC160\vm.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\annotation.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\beans.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\java.util.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\jndi.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\logging.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\security.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\sql.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmorb.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmorbapi.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmcfw.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\rt.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\charsets.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\resources.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmpkcs.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmcertpathfw.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmjgssfw.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmjssefw.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmsaslfw.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmjcefw.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmjgssprovider.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ibmxmlcrypto.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\management-agent.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\xml.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\jlm.jar"/>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\javascript.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\ride-2.1.0\java6-ibm-sr9fp1-2011-02-08-windows_64\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\Java\jre6" version="1.6.0_26">
+<bootpath>
+<entry path="C:\Program Files\Java\jre6\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jre6\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jre6\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jre6\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jre6\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jre6\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jre6\lib\modules\jdk.boot.jar"/>
+<entry path="C:\Program Files\Java\jre6\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jre6\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jre6\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
